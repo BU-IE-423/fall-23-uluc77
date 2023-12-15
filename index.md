@@ -8,5 +8,5 @@ This is Progress journal of Uluç Ali Başkurt and it is created for IE 423.
 
 ## Project part 2: 
 
-[HW part2](https://github.com/BU-IE-423/fall-23-uluc77/blob/main/IE%20423%20project%20part%202%20save1.ipynb)
+[HW part2](https://github.com/BU-IE-423/fall-23-uluc77/main/IE%20423%20project%20part%202%20save1.ipynb)
 
